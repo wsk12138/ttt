@@ -1,0 +1,1 @@
+"use strict";console.log(11),console.log(22);var a=19;function show(o,l){console.log(o),console.log(l)}console.log("需休息");a=20;
